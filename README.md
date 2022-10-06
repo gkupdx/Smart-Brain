@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+## Registration
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![](https://github.com/gkupdx/Smart-Brain/blob/8464ec3d58e2978e070e481f9e6b9fa15c28922a/smartbrain_register.gif)
+
+## Login
+
+![](https://github.com/gkupdx/Smart-Brain/blob/8464ec3d58e2978e070e481f9e6b9fa15c28922a/smartbrain_login.gif)
+
+## Profile + Clarifai Face-Detection in action
+
+![](https://github.com/gkupdx/Smart-Brain/blob/8464ec3d58e2978e070e481f9e6b9fa15c28922a/smartbrain_profile.gif)
 
 ## Available Scripts
 
